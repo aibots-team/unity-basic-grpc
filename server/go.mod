@@ -3,6 +3,6 @@ module github.com/fearlesshyena/grpccolorgen
 go 1.13
 
 require (
-	github.com/golang/protobuf v1.3.2
-	google.golang.org/grpc v1.25.1
+	github.com/golang/protobuf v1.5.3
+	google.golang.org/grpc v1.56.3
 )
